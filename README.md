@@ -1,6 +1,6 @@
   <div align="center">
     
-  <img src="https://i.ibb.co.com/0yPc48F6/rahidul-islam-pritom-web-developer-react-nextjs-mern-banner.png" 
+  <img src="https://i.ibb.co.com/7xybJ26B/final-banner-github.png" 
        alt="Rahidul Islam Pritom Banner" 
        width="100%" 
        align="center" />
@@ -29,10 +29,12 @@ I’m **Rahidul Islam Pritom**, a passionate **Full-Stack Developer** specializi
 ---
 
 ### 🚀 Current Activities
-- 🔭 Building **BloodLink**, a real-time blood donation management system.
+- 🔭 Developing **BloodLink**, a real-time blood donation management system.
+- 🧳 Building a **tourism website** focused on performance, SEO, and responsive user experience.
 - 🌱 Working on **LibSysPro**, a full-stack library management platform.
 - ⚡ Exploring **Next.js App Router** and Server-Side Rendering (SSR) optimization.
-- 💡 Improving **Tailwind CSS and responsive UI design skills**.
+- 🎨 Improving **Tailwind CSS** and modern responsive UI design skills.
+
 
 ---
 
