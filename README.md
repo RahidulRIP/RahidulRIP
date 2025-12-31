@@ -72,8 +72,7 @@ A comprehensive **library management system** focusing on admin/inventory manage
 - 📍 **Location:** Dhaka, Bangladesh (Open to Remote/Global)
 - 📧 **Email:** rahidulislampritom@gmail.com
 - 💼 **LinkedIn:** [Rahidul Islam Pritom](https://linkedin.com/in/rahidul-islam-pritom)
-- 🐙 **GitHub:** [RahidulRIP](https://github.com/RahidulRIP)
-- 🐦 **Twitter/X:** [@YourHandle](https://twitter.com/your-handle)
+- 🐙 **GitHub:** [RahidulRIP](https://github.com/RahidulRIP
 
 ---
 
