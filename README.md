@@ -1,6 +1,6 @@
   <div align="center">
     
-  <img src="https://i.ibb.co.com/7xybJ26B/final-banner-github.png" 
+  <img src="https://i.ibb.co.com/W4ngT48y/rahidul-islam-web-developer-react-nextjs-mern-profile.png" 
        alt="Rahidul Islam Pritom Banner" 
        width="100%" 
        align="center" />
