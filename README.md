@@ -5,7 +5,7 @@
        width="100%" 
        align="center" />
   
-  # 👨‍💻 Full Stack Developer | MERN & Next.js
+  # 👨‍💻 Full Stack Developer | MERN
   
   <p align="center">
     <a href="mailto:rahidulislampritom@gmail.com">
