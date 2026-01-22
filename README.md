@@ -24,7 +24,7 @@
 ---
 
 ### 📖 About Me
-I’m **Rahidul Islam Pritom**, a passionate **Full-Stack Developer** specializing in **React.js, Next.js, and the MERN stack**. I build **responsive, high-performance web applications** with a human-first approach, combining empathy from my **Social Work background** with technical precision. I enjoy solving complex problems, writing clean code, and continuously learning new technologies.
+I’m **Rahidul Islam**, **a passionate Full-Stack Developer** specializing in **React.js** and the **MERN stack**, and currently **learning and exploring Next.js**. I build responsive, **high-performance web applications** with a **human-first approach**, combining empathy from my Social Work background with technical precision. I enjoy solving problems, writing clean code, and **continuously learning new technologies** to improve **performance, SEO, and scalability**.
 
 ---
 
